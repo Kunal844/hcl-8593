@@ -4,7 +4,7 @@ public class MultipleCatch{
 
 
         try{
-            int c=10/0;
+            //int c=10/0;
             int c=10/2;
             System.out.println(a[10]);
         }
