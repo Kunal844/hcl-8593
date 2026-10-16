@@ -1,7 +1,7 @@
     package Day8;
 
     public class Student {
-        private static Student obj = new Student();
+         static final Student obj = new Student();
 
         private Student() {
             System.out.println("Object Created");
